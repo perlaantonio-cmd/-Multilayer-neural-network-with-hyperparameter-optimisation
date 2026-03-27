@@ -7,8 +7,7 @@ El proyecto incluye el Análisis Exploratorio de Datos (EDA), el diseño de la a
 
 * `Assignment6.ipynb`: Libreta de Jupyter principal con el código, análisis y resultados.
 * `wine.csv`: Dataset original (*Wine Recognition Data*).
-* `wine_multilayer_nn_optimized.keras`: Modelo final entrenado y exportado (listo para inferencia).
-
+  
 ## 🛠️ Requisitos Previos
 Para ejecutar este proyecto localmente, asegúrate de tener instalado Python 3.8+ y las siguientes librerías:
 * `tensorflow` (o `keras`)
